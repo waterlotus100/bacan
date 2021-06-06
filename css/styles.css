@@ -1,0 +1,35 @@
+/**************TAG SELETORS*************/
+body {
+  background-color: lightyellow;
+}
+
+h1 {
+  color: blue;
+}
+
+img:hover {
+  background-color: goldenrod;
+}
+
+p {
+  color: pink;
+}
+
+/**************CLASS SELETORS*************/
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/**************ID SELETORS*************/
+#heading {
+  color: red;
+  font-size: 40px;
+}
